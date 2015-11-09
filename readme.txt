@@ -1,1 +1,3 @@
-Read theme documentation to set up the theme. THX
+This is the source code for my first personal blog 
+
+Use Responsive Layout Design 
